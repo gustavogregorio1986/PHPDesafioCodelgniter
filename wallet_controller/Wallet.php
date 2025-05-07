@@ -36,3 +36,4 @@ class Wallet extends CI_Controller {
         redirect('wallet/index');
     }
 }
+?>
